@@ -1,16 +1,9 @@
 .container1 {
     transform: perspective(600px) rotateY(20deg)
-    translateX(55px);
   }
   .container2 {
     transform: perspective(600px) rotateY(-20deg) 
   }
-  .menu {
-    background-color: red;
-    width: 800px;
-    height: 800px;
-  }
-  
   .ui {
     display: flex;
     background-color: red;
