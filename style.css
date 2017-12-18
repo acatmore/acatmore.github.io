@@ -1,8 +1,12 @@
 .container1 {
-    transform: perspective(600px) rotateY(20deg)
+    transform: perspective(600px) rotateY(20deg);
+    width: 600px;
+    height: auto;
   }
   .container2 {
-    transform: perspective(600px) rotateY(-20deg) 
+    transform: perspective(600px) rotateY(-20deg); 
+    width: 600px;
+    height: auto;
   }
   .ui {
     display: flex;
